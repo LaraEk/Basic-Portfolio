@@ -1,0 +1,54 @@
+header {
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: #fff;
+    background: #4aaaa5;
+    border-bottom-style: solid;
+    border-color: #cccccc;
+    border-width: 0px 0px 2px 0px;
+  }
+
+nav {
+  float: right;
+  margin: 20px;
+}
+
+p {
+  color: #777777;
+}
+
+h1 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#maincontent {
+  float: left;
+  background-color:#ffffff;
+  margin: 10%;
+  color: #777777;
+  padding: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color:#dddddd;
+}
+
+body {
+  background-image: url("seigaiha.png");
+}
+
+
+
+
+footer {
+  height: 5px;
+  color: #fff;
+  bottom: 0;
+  left: 0;
+  background: #4aaaa5;
+  position: absolute;
+  width: 100%;
+}
+
