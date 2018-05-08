@@ -16,8 +16,13 @@ nav {
   margin: 20px;
 }
 
+#picpic {
+  float: left;
+}
+
 p {
   color: #777777;
+  float: left;
 }
 
 h1 {
