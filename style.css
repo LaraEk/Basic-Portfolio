@@ -27,7 +27,7 @@ h1 {
 #maincontent {
   float: left;
   background-color:#ffffff;
-  margin: 10%;
+  margin: 8% 10% 8% 10%;
   color: #777777;
   padding: 15px;
   border-style: solid;
@@ -50,7 +50,7 @@ footer {
   bottom: 0;
   left: 0;
   background: #4aaaa5;
-  position: absolute;
+  position: fixed;
   width: 100%;
 }
 

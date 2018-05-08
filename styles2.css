@@ -1,0 +1,29 @@
+#page-header,
+#page-footer {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    background: #ccc;
+}
+
+#page-header {
+    top: 0;
+    height: 100px;
+}
+
+#page-footer {
+    bottom: 0;
+    height: 75px;
+}
+
+#page-content {
+    padding: 100px 0 75px;
+}
+
+.inner {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background: orange;
+}
