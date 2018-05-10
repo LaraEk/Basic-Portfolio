@@ -1,3 +1,4 @@
+/*this is just the header stuff*/
 header {
     width: 100%;
     left: 0;
@@ -25,6 +26,8 @@ nav {
   color:#777777;
 
 }
+/*end of header stuff*/
+
 
 img {
   float: left;
@@ -58,6 +61,7 @@ body {
   background-image: url("seigaiha.png");
 }
 
+/*stuff that is only on the contact form page*/
 form {
   height: 200px;
   margin: 10px;
@@ -89,8 +93,14 @@ form {
   display: inline-block;
   font-size: 16px;
 }
+/*done with contact form page stuff*/
+
+/*portfolio page stuff only*/
+
+/*done with porfolio page stuff*/
 
 
+/*this is for just the footer*/
 footer {
   height: 20px;
   color: #fff;
