@@ -26,9 +26,9 @@ nav {
   color:#777777;
 
 }
-/*end of header stuff*/
+/*end of just-header stuff*/
 
-
+/*stuff that fits all pages*/
 img {
   float: left;
 }
@@ -60,6 +60,7 @@ h1 {
 body {
   background-image: url("seigaiha.png");
 }
+/*done with stuff that fits all pages*/
 
 /*stuff that is only on the contact form page*/
 form {
@@ -96,9 +97,10 @@ form {
 /*done with contact form page stuff*/
 
 /*portfolio page stuff only*/
-
+.portpic {
+  padding: 20px;
+}
 /*done with porfolio page stuff*/
-
 
 /*this is for just the footer*/
 footer {
@@ -116,4 +118,6 @@ footer {
   padding: 5px; 
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+/*done with the footer, too*/
 
+/*all done! ٩(^ᴗ^)۶ */
