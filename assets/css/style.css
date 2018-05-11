@@ -1,6 +1,7 @@
 /*this is just the header stuff*/
 header {
     width: 100%;
+    height: 80px;
     left: 0;
     top: 0;
     background: #ffffff;
@@ -12,8 +13,8 @@ header {
 #yourname{
     background: #4aaaa5;
     color: #fff;
-    margin-left: 10%;
-    margin-right: 75%;
+    margin-left: 15%;
+    margin-right: 70%;
     text-align: center;
     font-size: xx-large;
     padding: 20px;
@@ -21,7 +22,7 @@ header {
 
 nav {
   float: right;
-  margin: -50px 140px 0px 0px;
+  margin: -50px 300px 0px 0px;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   color:#777777;
 
@@ -33,27 +34,30 @@ img {
   float: left;
 }
 
+h1 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: #4aaaa5;
+}
+
+
 p {
   color: #777777;
   float: left;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-h1 {
-  font-family: 'Georgia', Times, Times New Roman, serif;
-}
 
 #maincontent {
   background-color:#ffffff;
-  width: 960;
-  margin: 8% 10% 8% 10%;
+  width: 960px;
+  margin: 0 15% 8% 15%;
   color: #777777;
-  padding: 15px;
+  padding: 0 15px 15px 15px;
   border-style: solid;
   border-width: 1px;
   border-color:#dddddd;
   position: absolute;
-  top: 0;
+  top: 100px;
   line-height: 25px;
 }
 
@@ -64,7 +68,7 @@ body {
 
 /*stuff that is only on the contact form page*/
 form {
-  height: 200px;
+  height: 300px;
   margin: 10px;
   width: 960px;
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -72,12 +76,13 @@ form {
 }
 
 .short {
-  width: 50%;
+  width: 95%;
 }
 
 #makeitbig {
-  width: 50%;
-  height: 80px;
+  width: 95%;
+  height: 180px;
+
 }
 
 #contactme {
@@ -99,6 +104,11 @@ form {
 /*portfolio page stuff only*/
 .portpic {
   padding: 20px;
+  float: left;
+}
+
+#nextimages {
+  float: left;
 }
 /*done with porfolio page stuff*/
 
